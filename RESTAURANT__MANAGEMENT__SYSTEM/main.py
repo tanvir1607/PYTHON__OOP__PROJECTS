@@ -22,7 +22,7 @@ rest = Restaurant("July Cafe", menu)
 
 def main_menu():
     while True:
-        print(f"Welcome to {rest.name}")
+        print(f"Welcome to {rest.name} !!!")
         print("-"*50)
         print("1. Customer")
         print("2. Admin")

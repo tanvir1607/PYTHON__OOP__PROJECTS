@@ -7,8 +7,6 @@ class Customer():
         self.bill = 0
 
 
-
-
 class Admin():
     def __init__(self, name, phone, address):
         self.name = name
